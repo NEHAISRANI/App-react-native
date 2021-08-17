@@ -1,0 +1,3 @@
+[submodule "App-react-native"]
+	path = App-react-native
+	url = https://github.com/NEHAISRANI/App-react-native
